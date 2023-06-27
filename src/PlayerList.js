@@ -8,7 +8,7 @@ const PlayersList = () => {
       style={{
         display: "flex",
         justifyContent: "space-around",
-        marginTop: "5%",
+        marginTop: "6%",
       }}
     >
       {players.map((player, index) => (
